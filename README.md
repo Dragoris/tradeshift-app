@@ -1,5 +1,5 @@
 
-Tradeshift Triangle App
+## Tradeshift Triangle App
 
 This is a simple app that takes in three length values from a form and will return the type of triangle thoes lengths will make. The form will submit after the following conditions are met: All input values must be positive integers and the sum of the lengths of any 2 sides of a triangle must be greater than the third side.
 
